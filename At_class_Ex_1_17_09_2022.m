@@ -20,6 +20,7 @@ for t = 0:0.01:1
     plot(Px,Py,'.'); xlabel('Px'); ylabel('Py');
     hold on
     grid on
+    pause(0.02);
 end
     
     
