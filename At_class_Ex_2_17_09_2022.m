@@ -20,5 +20,5 @@ for t = 0:0.1: 10
     plot(Px,Py,'.');xlabel('Px');ylabel('Py');
     hold on
     grid on
-    
+    pause(0.02);
 end
